@@ -6,5 +6,6 @@ Je lance mon SaaS seul, avec l'IA, et je te montre tout : les outils, les prompt
 | Vidéo | Ressource |
 |---|---|
 | J'ai construit mon propre outil de réseaux sociaux avec Claude Code | [Mon fichier de règles pour Claude, mes 2 prompts et ma liste de vérification](video-1-claude-code/) |
+| Mes Reels sans montrer mon visage : la chaîne complète, gratuite et en local | [Les 3 commandes ffmpeg/whisper et mon script qui coupe les blancs](video-3-reels-sans-visage/) |
 
 Tu peux copier, modifier et réutiliser ces fichiers comme tu veux (licence CC0, voir `LICENSE`).
